@@ -1,0 +1,9 @@
+{
+	"name": "Mappingfactory",
+	"location": "norwayeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "11115812-5fad-4b65-8684-761542bd2199",
+		"tenantId": "07873032-a399-4ab8-a18b-04b51b10c5cd"
+	}
+}
