@@ -1,0 +1,13 @@
+{
+	"name": "TabelList",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "databaseTEST",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

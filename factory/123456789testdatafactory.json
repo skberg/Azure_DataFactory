@@ -1,0 +1,9 @@
+{
+	"name": "123456789testdatafactory",
+	"location": "norwayeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "818fac83-5088-4d73-b083-2afe3c38332b",
+		"tenantId": "07873032-a399-4ab8-a18b-04b51b10c5cd"
+	}
+}
